@@ -1,0 +1,33 @@
+body{
+display:grid;
+  place-items:center;
+}
+
+#full-div{
+height:270px;
+width:200px;
+    border:2px solid black;
+    display:grid;
+  place-items:center;
+  border-radius:5px;
+  background-color:grey;
+  
+}
+.btn{
+    height:40px;
+    width:40px;
+    margin:0.5px;
+    margin-bottom:3px;
+    font-size:100%;
+    border-radius:10px;
+    background-color:black;
+    border:1px solid whit e;
+    color:orange;
+}
+#input{
+    width:87.2%;
+    margin:10px 0px 10px 0px;
+}
+.red{
+    color:red;
+}
